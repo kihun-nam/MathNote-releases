@@ -5,7 +5,7 @@ serious manuscript writing, where ideas move from rough formulas,
 scans, and blackboard photos into structured LaTeX/Markdown notes
 with definitions, theorems, proofs, macros, snippets, and revision
 tracking.
-
+![MathNote — editor, previe with continuity cameral side by side](docs/screenshot2.png)
 ![MathNote — editor, preview, theorem sidebar, and diff panel side by side](docs/screenshot.png)
 
 ## Features
